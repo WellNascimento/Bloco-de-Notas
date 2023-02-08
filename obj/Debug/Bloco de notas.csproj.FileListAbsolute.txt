@@ -1,0 +1,14 @@
+C:\Users\welly\OneDrive\Área de Trabalho\Programação\Bloco de notas\bin\Debug\Bloco de notas.exe.config
+C:\Users\welly\OneDrive\Área de Trabalho\Programação\Bloco de notas\bin\Debug\Bloco de notas.exe
+C:\Users\welly\OneDrive\Área de Trabalho\Programação\Bloco de notas\bin\Debug\Bloco de notas.pdb
+C:\Users\welly\OneDrive\Área de Trabalho\Programação\Bloco de notas\obj\Debug\Bloco_de_notas.Home.resources
+C:\Users\welly\OneDrive\Área de Trabalho\Programação\Bloco de notas\obj\Debug\Bloco_de_notas.Properties.Resources.resources
+C:\Users\welly\OneDrive\Área de Trabalho\Programação\Bloco de notas\obj\Debug\Bloco de notas.csproj.GenerateResource.cache
+C:\Users\welly\OneDrive\Área de Trabalho\Programação\Bloco de notas\obj\Debug\Bloco de notas.csproj.CoreCompileInputs.cache
+C:\Users\welly\OneDrive\Área de Trabalho\Programação\Bloco de notas\obj\Debug\Bloco de notas.exe
+C:\Users\welly\OneDrive\Área de Trabalho\Programação\Bloco de notas\obj\Debug\Bloco de notas.pdb
+C:\Users\welly\OneDrive\Área de Trabalho\Programação\Bloco de notas\obj\Debug\Bloco de notas.csproj.AssemblyReference.cache
+C:\Users\welly\OneDrive\Área de Trabalho\Programação\Bloco de notas\bin\Debug\Bloco de notas.exe.manifest
+C:\Users\welly\OneDrive\Área de Trabalho\Programação\Bloco de notas\bin\Debug\Bloco de notas.application
+C:\Users\welly\OneDrive\Área de Trabalho\Programação\Bloco de notas\obj\Debug\Bloco de notas.exe.manifest
+C:\Users\welly\OneDrive\Área de Trabalho\Programação\Bloco de notas\obj\Debug\Bloco de notas.application
